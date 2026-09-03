@@ -1,2 +1,2 @@
- 
-printf('halloworld')
+
+print('halloworld')
