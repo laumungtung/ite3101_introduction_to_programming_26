@@ -1,1 +1,1 @@
-print("Hallo[lau]")
+print("Hallo+"lau]")
