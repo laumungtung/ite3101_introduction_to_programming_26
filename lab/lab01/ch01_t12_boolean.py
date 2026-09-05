@@ -2,5 +2,5 @@
 # I'm an expert Python coder.
 # I'm 21 years old and I plan to program cool stuff forever.
 
-name_is_maria =true 
+name_is_maria = true
 age_is_12 = False
