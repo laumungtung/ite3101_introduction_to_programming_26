@@ -1,2 +1,1 @@
-todays
-_date = "5/9/26"
+todays_date = "5/9/26"
