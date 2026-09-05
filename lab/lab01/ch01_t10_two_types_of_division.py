@@ -18,7 +18,7 @@ num_people = 6
 whole_cucumbers_per_person = cucumbers // num_people
 print(whole_cucumbers_per_person)
 
-# 3. Divide for float (decimal) result and print
+
 float_cucumbers_per_person = cucumbers / num_people
 print(float_cucumbers_per_person)
 
