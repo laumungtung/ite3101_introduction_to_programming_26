@@ -4,5 +4,5 @@ float_2 = 40.0
 skill_completed == "Python Syntax"
 exercise_completed == 13
 points_per_exercise == 5
-Point_total = 100 
+Point_total = 100
 Point_total += exercise_completed * points_per_exersice
