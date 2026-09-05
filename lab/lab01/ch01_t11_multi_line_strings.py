@@ -1,1 +1,1 @@
-haiku_string = The old pond,
+haiku_string =The old pond,
