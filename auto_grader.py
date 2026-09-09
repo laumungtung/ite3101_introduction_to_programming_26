@@ -8,7 +8,10 @@ try:
 except ImportError:  # pytest may not be installed in all environments
     pytest = None  # type: ignore[assignment]
 
-import requests
+try:
+    import requests
+except ImportError:  # requests may not be installed in all environments
+    requests = None  # type: ignore[assignment]
 
 try:
     from git import Repo
