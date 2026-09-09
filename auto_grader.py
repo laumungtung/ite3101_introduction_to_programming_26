@@ -3,9 +3,17 @@ import shutil
 import sys
 from pathlib import Path
 
-import pytest
+try:
+    import pytest
+except ImportError:  # pytest may not be installed in all environments
+    pytest = None  # type: ignore[assignment]
+
 import requests
-from git import Repo
+
+try:
+    from git import Repo
+except ImportError:  # GitPython may not be installed in all environments
+    Repo = None  # type: ignore[assignment]
 
 from config import API_ENDPOINT, API_KEY
 

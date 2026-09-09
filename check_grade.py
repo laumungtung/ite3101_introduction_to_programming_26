@@ -1,4 +1,4 @@
-import requests
+import requests  # type: ignore[import-not-found]
 from config import API_ENDPOINT, API_KEY
 
 try:
