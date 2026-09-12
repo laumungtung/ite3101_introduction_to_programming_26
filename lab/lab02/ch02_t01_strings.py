@@ -1,4 +1,4 @@
 # Set the variable brian on line 3!
 
 name = "brian"
-livemood= "Hello live!"
+livemood = "Hello live!"
