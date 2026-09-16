@@ -1,2 +1,2 @@
 print
-"PARROT".lower()
+"parrot".lower()
