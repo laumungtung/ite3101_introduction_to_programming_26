@@ -6,4 +6,4 @@ color = "rainbow color"("What is your favorite color?")
 # print("Ah, so your name is ___, your quest is ___, "
 # "and your favorite color is ___." ___ (name, quest, color))
 
-print("MY name IS %s, my quest is %s, and my favorite color is %s. " ")
+print("MY name IS %s, my quest is %s, and my favorite color is %s. " % (name, quest, color))
