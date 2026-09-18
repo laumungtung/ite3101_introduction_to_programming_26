@@ -5,6 +5,6 @@ second_string = "alpha"
 len("my_string")
 "second_string".upper()
 
- print
+ print("")
 
 
