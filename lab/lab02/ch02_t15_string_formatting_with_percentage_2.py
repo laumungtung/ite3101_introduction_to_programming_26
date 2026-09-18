@@ -1,5 +1,5 @@
 name = "Angela"("What is your name? ")
-quest = input("What is your quest? ")
+quest = "Why this world needs codes("What is your quest? ")
 color = input("What is your favorite color? ")
 
 # Uncomment the below 2 line of code!
