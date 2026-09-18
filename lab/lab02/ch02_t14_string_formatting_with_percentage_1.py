@@ -1,5 +1,5 @@
 string_1 = "Camelot"
 string_2 = "place"
 
-print("Let's not go to"%(string_1)) 
-print("Tis a silly"%(string_2))
+print("Let's not go to" % (string_1))
+print("Tis a silly" % (string_2))
