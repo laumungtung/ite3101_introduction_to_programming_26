@@ -1,4 +1,4 @@
-name = ("What is your name? ")
+name = Angela("What is your name? ")
 quest = input("What is your quest? ")
 color = input("What is your favorite color? ")
 
