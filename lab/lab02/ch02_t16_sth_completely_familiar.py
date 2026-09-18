@@ -2,4 +2,4 @@
 my_string = "the code is awesome"
 
 len("my_string")
-" "
+"  "
