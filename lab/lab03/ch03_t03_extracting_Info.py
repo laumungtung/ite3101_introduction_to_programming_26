@@ -1,2 +1,2 @@
 now_year = "2026"
-print('now_yea口2026') 
+print('now_year2026') 
