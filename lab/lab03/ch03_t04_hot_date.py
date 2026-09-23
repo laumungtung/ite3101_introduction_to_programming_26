@@ -2,6 +2,6 @@ from datetime import datetime
 
 now = datetime.now()
 
-print{'%02d/%04d')
+print{'%02d/%04d'}
 
 }
