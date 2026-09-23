@@ -5,3 +5,4 @@ now = "september"
 print('now.mounth_september')
 
 now = " thursdaay"
+print('now.day_thursday')
