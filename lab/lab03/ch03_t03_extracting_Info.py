@@ -1,5 +1,5 @@
 now = "2026"
 print('now.year2026')
 
-now = "0:13"
+now = ""
 print('now.time0.13')
