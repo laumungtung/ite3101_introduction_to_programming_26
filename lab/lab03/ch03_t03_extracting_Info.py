@@ -1,2 +1,2 @@
-now.year = "2026"
+now = "2026"
 print('now.year2026')
