@@ -1,1 +1,1 @@
-now_year = 
+now_year = 2026
