@@ -1,1 +1,1 @@
-now year
+now_year = 
