@@ -3,3 +3,5 @@ print('now.year2026')
 
 now = "september"
 print('now.mounth_september')
+
+now = " thursda"
