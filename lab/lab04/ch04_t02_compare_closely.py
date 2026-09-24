@@ -7,10 +7,10 @@ bool_one = True == (17 < 328) # We did this one for you!
 bool_two = True == (100 == (2 * 50))
 
 # Set this to True if 19 <= 19 or to False if it is not.
-bool_three = None
+bool_three = True == (19 <= 19)
 
 # Set this to True if -22 >= -18 or to False if it is not.
-bool_four = None
+bool_four = True == (-22 >= -18)
 
 # Set this to True if 99 != (98 + 1) or to False otherwise.
-bool_five = None
+bool_five = True == (99 != (98 + 1))
