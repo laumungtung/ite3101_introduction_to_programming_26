@@ -10,6 +10,7 @@ bool_two = False  (20 - 10) > 15
 # 1**2 <= -1
 bool_three = None
 
+
 # 40 * 4 >= -4
 bool_four = None
 
