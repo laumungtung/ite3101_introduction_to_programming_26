@@ -8,7 +8,7 @@ bool_one = False (20 - 10) > 15  # We did this one for you!
 bool_two = False (10 + 17) == 3 **16
 
 # 1**2 <= -1
-bool_three = False 1**2 <= -1
+bool_three = False (1**2 <= -1
 
 
 # 40 * 4 >= -4
