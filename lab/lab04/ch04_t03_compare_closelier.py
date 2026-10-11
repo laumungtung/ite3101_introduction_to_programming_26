@@ -15,4 +15,4 @@ bool_three =false 1**2 <= -1
 bool_four =true 40 * 4 >= -4
 
 # 100 != 10**2
-bool_five =false (100 != 10 ** 2)
+bool_five =false (100 != 10 ** 2
